@@ -10,7 +10,7 @@
 - Si no usaste ninguna de las dos plataformas mencionadas, comparte los archivos de los códigos que realizaste, de ser posible compartelos desde github para facilitar el envio y descarga.
 - El tiempo estimado para la realización de la prueba es de:  **60 a 90 minutos**
 
-### Problema propuesto
+## Problema a resolver
 
 La gerencia quiere conocer aspectos relacionados con las tasas de intermediación del sector bancario, para trabajar en su estrategia de fondeo y costo de crédito. Para esto, la gerencia nos entregó la siguiente información la cual esta conformada por las siguientes tablas:
 
@@ -19,6 +19,8 @@ La gerencia quiere conocer aspectos relacionados con las tasas de intermediació
 - Entidades
 - Tipo_credito
 - Plazos
+
+Los datos los encuentras en la carpeta Data: [Data](https://github.com/CodeIilluminati/pruebaAnalistaT/tree/main/Data)
 
 La gerencia nos comentó que no ha realizado ningún analisis o exploración de la información, asi como tampoco la limpieza de los datos contenidos en las tablas.
 
